@@ -1,0 +1,15 @@
+.col{
+    min-height: 200px
+}
+.col1{
+    background-color: brown;
+}
+.col2{
+    background-color: aqua;
+}
+.col3{
+    background-color: blue;
+}
+.col4{
+    background-color: black;
+}

@@ -1,0 +1,21 @@
+.row{
+    border: 2px solid black;
+    height: 300px;
+}
+.col1{
+    background-color: red ;
+    
+}
+.col2{
+    background-color:aqua ;
+   
+}
+.col3{
+    background-color:purple ;
+    
+}
+.col4{
+    background-color:green ;
+ 
+}
+
